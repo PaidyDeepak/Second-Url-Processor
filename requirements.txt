@@ -8,7 +8,7 @@ langsmith
 sentence-transformers
 chromadb
 faiss-cpu
-
+torchvision
 scrapling
 beautifulsoup4
 requests
